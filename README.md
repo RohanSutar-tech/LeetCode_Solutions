@@ -5,11 +5,13 @@ Collection of LeetCode questions to ace the coding interview!
 # Array
 |  |
 | ------- |
+| [1217-relative-sort-array](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/1217-relative-sort-array) |
 | [1635-number-of-good-pairs](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/2048-build-array-from-permutation) |
 # Hash Table
 |  |
 | ------- |
+| [1217-relative-sort-array](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/1217-relative-sort-array) |
 | [1635-number-of-good-pairs](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
 # Math
 |  |
@@ -23,3 +25,11 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/2048-build-array-from-permutation) |
+# Sorting
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/1217-relative-sort-array) |
+# Counting Sort
+|  |
+| ------- |
+| [1217-relative-sort-array](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/1217-relative-sort-array) |
