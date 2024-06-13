@@ -5,6 +5,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [1217-relative-sort-array](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/1217-relative-sort-array) |
 | [1635-number-of-good-pairs](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/2048-build-array-from-permutation) |
@@ -33,3 +34,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1217-relative-sort-array](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/1217-relative-sort-array) |
+# Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
