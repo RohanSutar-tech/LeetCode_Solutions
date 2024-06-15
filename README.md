@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [1217-relative-sort-array](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/1217-relative-sort-array) |
 | [1635-number-of-good-pairs](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/2048-build-array-from-permutation) |
@@ -29,6 +30,7 @@ Collection of LeetCode questions to ace the coding interview!
 # Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [1217-relative-sort-array](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/1217-relative-sort-array) |
 # Counting Sort
 |  |
@@ -38,3 +40,4 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0088-merge-sorted-array](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
