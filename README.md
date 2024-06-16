@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
 | [1217-relative-sort-array](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/1217-relative-sort-array) |
 | [1635-number-of-good-pairs](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/1635-number-of-good-pairs) |
@@ -40,4 +41,5 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/0088-merge-sorted-array) |
