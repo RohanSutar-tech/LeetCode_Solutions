@@ -67,3 +67,14 @@ Collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/0055-jump-game) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/RohanSutar-tech/LeetCode_Solutions/tree/master/0001-two-sum) |
+<!---LeetCode Topics End-->
